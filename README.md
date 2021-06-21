@@ -22,7 +22,7 @@ Secured Rank 2 among 1050 candidates all over the india.
 ## Project 4: [Natural Language Processing with Disaster Tweets](https://github.com/amanG251314/Twitter_Disaster_)
 - I did Exploratory Data Analysis(EDA) of the data
 - I Used Tf-Idf for converting the text to vector
-- I Used Support Vector Classifier.  
+- I Used Support Vector Classifier.
 ![](/Images/tweeter.png)
 
 
