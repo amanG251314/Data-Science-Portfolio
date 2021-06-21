@@ -7,3 +7,11 @@ In this project i did forecasting of future sells of Perrin Freres Monthly Champ
 - Construct the ARIMA Model or Seasonal ARIMA based on the data
 - Use the model to make predictions
 ![](/Images/Forecasting.png)
+
+## Project 2: Recommending LearningObjective Apriori
+In this project, i created a LMS objective recommender using apriori.
+- This Project finds out the nearest neighbours of the New Learner on the App.
+- Using those neighbours data it predict the Objective of New Learner. 
+![](/Images/LMS.jpg)
+
+
