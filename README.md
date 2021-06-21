@@ -1,4 +1,3 @@
-# Portfolio of Aman Patkar
 # Data scientist
 
 # Project 1: Future-Sales-Forecasting
