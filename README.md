@@ -23,7 +23,7 @@ Secured Rank 2 among 1050 candidates all over the india.
 - I did Exploratory Data Analysis(EDA) of the data
 - I Used Tf-Idf for converting the text to vector
 - I Used Support Vector Classifier
-- ![](/Images/Capture.PNG)
+- ![](/Images/tweeter.png)
 
 
 
