@@ -30,6 +30,7 @@ In this project, i created a LMS objective recommender using apriori.
 - In this Challenge, we created appropriate features using CSGO Game demos
 - We did Exploratory Data Analys
 - We did Feature Selection
+- Created State of the Art Model to predict the Winning team
 - Secured Rank 1 among 320 different teams across 20 different countries.
 [![](/Images/csgoo.PNG)](https://www.youtube.com/watch?v=CwCvU9XSpz4)
 
