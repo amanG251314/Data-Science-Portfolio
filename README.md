@@ -1,7 +1,5 @@
-# Data scientist  
-
-
-# Project 1: Future-Sales-Forecasting
+# Here are my some of Projects that i have done and are OpenSource
+## Project 1: Future-Sales-Forecasting
 In this project i did forecasting of future sells of Perrin Freres Monthly Champagne Sales
 - Visualize the Time Series Data
 - Make the time series data stationary
