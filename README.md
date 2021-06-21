@@ -19,6 +19,12 @@ In this project, i created a LMS objective recommender using apriori.
 Secured Rank 2 among 1050 candidates all over the india.
 [![](/Images/Capture.PNG)](https://hack.univ.ai/leaderboard/private)
 
+## Project 4: Natural Language Processing with Disaster Tweets
+- I did Exploratory Data Analysis(EDA) of the data
+- I Used Tf-Idf for converting the text to vector
+- I Used Support Vector Classifier
+- ![](/Images/Capture.PNG)
+
 
 
 
