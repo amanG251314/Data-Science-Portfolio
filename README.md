@@ -11,7 +11,7 @@ In this project i did forecasting of future sells of Perrin Freres Monthly Champ
 ## Project 2: [Recommending LearningObjective Apriori](https://github.com/amanG251314/Recommending_LearningObjective_Apriori)
 In this project, i created a LMS objective recommender using apriori.
 - This Project finds out the nearest neighbours of the New Learner on the App.
-- Using those neighbours data it predict the Objective of New Learner. 
+- Using those neighbour's data it predict the Objective of New Learner. 
 ![](/Images/LMS.jpg)
 
 ## Project 3: [The Geoffrey Hinton Fellowship Hackathon-1](https://github.com/amanG251314/GHF_Hackathon_1)
