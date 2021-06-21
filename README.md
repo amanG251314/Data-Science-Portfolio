@@ -26,7 +26,7 @@ In this project, i created a LMS objective recommender using apriori.
 
 ![](/Images/tweeter.png)
 
-## Project 5: THE CS:GO AI CHALLENGE
+## Project 5: [THE CS:GO AI CHALLENGE](https://csgo.greatercph.com/)
 - In this Challenge, we created appriopriate features using CSGO Game demos
 - We did Exploratory Data Analys
 - We did Feature Selection
