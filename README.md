@@ -31,7 +31,7 @@ In this project, i created a LMS objective recommender using apriori.
 - We did Exploratory Data Analys
 - We did Feature Selection
 - Secured Rank 1 among 320 different teams across 20 different countries.
-![](/Images/csgoo.PNG)
+[![](/Images/csgoo.PNG)](https://www.youtube.com/watch?v=CwCvU9XSpz4)
 
 
 
