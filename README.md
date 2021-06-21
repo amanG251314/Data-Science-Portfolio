@@ -15,8 +15,8 @@ In this project, i created a LMS objective recommender using apriori.
 ![](/Images/LMS.jpg)
 
 ## Project 3: The Geoffrey Hinton Fellowship Hackathon-1
+-  Credit Risk Prediction
 Secured Rank 2 among 1050 candidates all over the india.
-*********************************************************************************************************************************************************************
 [![](/Images/Capture.PNG)](https://hack.univ.ai/leaderboard/private)
 
 
