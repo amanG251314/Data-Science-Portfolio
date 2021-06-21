@@ -14,4 +14,11 @@ In this project, i created a LMS objective recommender using apriori.
 - Using those neighbours data it predict the Objective of New Learner. 
 ![](/Images/LMS.jpg)
 
+## Project 3: The Geoffrey Hinton Fellowship Hackathon-1
+Secured Rank 2 among 1050 candidates all over the india.
+*********************************************************************************************************************************************************************
+[![](/Images/Capture.PNG)](https://hack.univ.ai/leaderboard/private)
+
+
+
 
