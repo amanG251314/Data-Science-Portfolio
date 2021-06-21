@@ -6,13 +6,13 @@ In this project i did forecasting of future sells of Perrin Freres Monthly Champ
 - Plot the Correlation and AutoCorrelation Charts
 - Construct the ARIMA Model or Seasonal ARIMA based on the data
 - Use the model to make predictions
-- ![](/Images/Forecasting.png)
+[![](/Images/Forecasting.png)](https://github.com/amanG251314/Future-Sales-Forecasting)
 
 ## Project 2: [Recommending LearningObjective Apriori](https://github.com/amanG251314/Recommending_LearningObjective_Apriori)
 In this project, i created a LMS objective recommender using apriori.
 - This Project finds out the nearest neighbours of the New Learner on the App.
 - Using those neighbour's data it predict the Objective of New Learner. 
-![](/Images/LMS.jpg)
+[![](/Images/LMS.jpg)](https://github.com/amanG251314/Recommending_LearningObjective_Apriori)
 
 ## Project 3: [The Geoffrey Hinton Fellowship Hackathon-1](https://github.com/amanG251314/GHF_Hackathon_1)
 -  Credit Risk Prediction
@@ -24,7 +24,7 @@ In this project, i created a LMS objective recommender using apriori.
 - I Used Tf-Idf for converting the text to vector
 - I Used Support Vector Classifier.
 
-![](/Images/tweeter.png)
+[![](/Images/tweeter.png)](https://github.com/amanG251314/Twitter_Disaster_)
 
 ## Project 5: [THE CS:GO AI CHALLENGE](https://csgo.greatercph.com/)
 - In this Challenge, we created appropriate features using CSGO Game demos
